@@ -1,3 +1,3 @@
 # FirstGitRepository
 this is my first repository
-Author - Vishesh vaidya
+Author - Vishesh vaidya(programmer)
